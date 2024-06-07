@@ -1,0 +1,25 @@
+.lokpriya-gallery-post .lokpriya-image-section{
+    height: 350px;
+    
+}
+.lokpriya-gallery-section{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.lokpriya-gallery-section .lokpriya-section-title{
+    text-align: center;
+    margin: 0;
+    padding-top: 30px;
+}
+.lokpriya-gallery-section .lokpriya-gallery-image-list{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+
+.lokpriya-gallery-section .lokpriya-gallery-post{
+    flex: 0 0 33.33%;
+    max-width: 33.33%;
+    padding: 2.5px ;
+}
+

@@ -1,0 +1,36 @@
+.lokpriya-banner-section .lokpriya-image-section{
+    height: 420px;
+    color: white;
+    position: relative;
+}
+.lokpriya-banner-section .lokpriya-wrapper{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+.lokpriya-banner-section .lokpriya-desc{
+    max-width: 1200px;
+    margin: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-align: center;
+         
+}
+.lokpriya-banner-section .lokpriya-banner-title,
+.lokpriya-banner-section p{
+    margin: 0;
+
+}
+
+.lokpriya-banner-section .lokpriya-banner-title{
+    font-size: 70px;
+}
+
+.lokpriya-banner-section p{
+    font-size: 24px;
+    padding-top: 15px;
+}

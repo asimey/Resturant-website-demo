@@ -1,0 +1,123 @@
+.lokpriya-post-style-1 .lokpriya-image-section{
+    height: 300px;
+    position: relative;
+}
+
+.lokpriya-post-style-1 .lokpriya-button-section{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%; 
+    transform: translateY(-50%);
+    padding: 0 5px;
+    text-align: center;
+}
+.lokpriya-post-style-2 .lokpriya-image-section{
+    height: 350px;
+}
+
+.lokpriya-post-style-2 .lokpriya-button-section a{
+    display: block;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 15px 10px;
+    text-align: center; 
+}
+
+.lokpriya-post-style-2 .lokpriya-button-section a:hover{
+    background-color: teal;
+    
+}
+
+.lokpriya-post-style-2 .lokpriya-button-section a:visited{
+    color: white;
+    
+}
+
+.lokpriya-post-style-3 .lokpriya-image-section{
+    height: 300px;
+}
+
+.lokpriya-post-style-3 .lokpriya-post-desc{
+    background-color: black;
+    color: white;
+    padding: 5px 15px 15px;
+
+}
+.lokpriya-post-style-3 .lokpriya-post-desc ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
+
+.lokpriya-post-style-3 .lokpriya-post-desc li{
+    margin-top: 10px;
+    
+}
+
+.lokpriya-post-style-3 .lokpriya-info-title{
+    font-size: 18px;
+    font-weight: 600;
+}
+.lokpriya-menu-post{
+    display: flex;
+    flex-wrap: wrap;
+    padding : 15px;
+    box-shadow: 0 0 4px 4px #eee;
+}
+.lokpriya-menu-item-section .lokpriya-post-title{
+    text-align: center;
+    margin: 0;
+}
+
+.lokpriya-menu-post .lokpriya-post-desc{
+    flex: 0 0 calc(100% - 250px);
+    max-width: calc(100% - 250px);
+}
+.lokpriya-menu-post .lokpriya-image-section{
+    height: 250px;
+    flex: 0 0 250px;
+    max-width: 250px;
+}
+.lokpriya-menu-post table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 5px;
+}
+.lokpriya-menu-post th{
+    font-size: 18px;
+}
+.lokpriya-menu-post th,
+.lokpriya-menu-post td{
+    border: 1px solid green;
+    text-align: left;
+    padding: 5px 10px;
+}
+.lokpriya-menu-post th:nth-child(2){
+    width: 100px;
+}
+
+/* PEOPLES VIEWS SECTION*/
+.lokpriya-our-team-section{
+    padding: 30px 0;
+    text-align: center;
+
+}
+.lokpriya-our-team-section .lokpriya-image-section{
+    height: 250px;
+    border-radius: 460px;
+    background-size: 350px;
+    box-shadow: 0 0 4px 5px #eee;
+
+}
+
+.lokpriya-our-team-section .lokpriya-section-title{
+    margin-top: 0;
+}
+
+.lokpriya-our-team-section .lokpriya-desc{
+    text-align: center;
+    margin-top: 0;
+}

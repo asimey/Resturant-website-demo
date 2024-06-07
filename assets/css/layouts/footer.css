@@ -1,0 +1,16 @@
+.lokpriya-footer-section{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px 0 45px;
+}
+
+.lokpriya-footer-section .lokpriya-logo-section,
+.lokpriya-footer-section .lokpriya-social-icon-section li,
+.lokpriya-footer-section p{
+    margin-top: 15px;
+}
+
+.lokpriya-footer-section p{
+    margin-bottom: 0;
+}

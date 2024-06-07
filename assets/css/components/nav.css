@@ -1,0 +1,18 @@
+.lokpriya-nav-menu{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;  
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+}
+
+.lokpriya-nav-menu a,
+.lokpriya-nav-menu a:visited{
+    color: white;
+}
+.lokpriya-nav-menu a{
+    display: inline-block;
+    padding: 10px 7.5px;
+}
+

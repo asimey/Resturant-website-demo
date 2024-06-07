@@ -1,0 +1,18 @@
+/************FEATURE SECTION***********/
+.lokpriya-feature-section .lokpriya-section-title{
+    text-align: center;
+    margin: 0;
+    
+}
+
+.lokpriya-feature-section{
+    /* background-color: rgba(238,238,238,0.33); */
+    padding:60px 0;
+    font-size: 23px;
+    
+}
+
+.lokpriya-feature-section .lokpriya-post{
+    padding-top: 30px;
+}
+/*-----------FEATURE SECTION----------*/

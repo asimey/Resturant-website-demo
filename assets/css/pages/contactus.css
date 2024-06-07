@@ -1,0 +1,96 @@
+
+
+input[type=text],
+textarea{
+    display: block;
+    width: 100%;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
+textarea{
+    height: 150px;
+}
+
+.lokpriya-contact-us-section{
+    padding: 45px 0 60px;
+}
+.lokpriya-contact-us-section .lokpriya-section-title,
+.lokpriya-contact-us-section .lokpriya-section-sub-title{
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+.lokpriya-contact-us-section .lokpriya-form-section{
+    border-right: 1px solid #eee;
+    padding-right: 45px;
+
+}
+.lokpriya-contact-us-section .lokpriya-contact-form-section{
+    padding-top: 30px;
+}
+
+.lokpriya-contact-us-section .lokpriya-contact-form-section label{
+    width: 100%;
+    display: block;
+    margin-top: 15px;
+}
+
+.lokpriya-contact-us-section .lokpriya-contact-form-section input,
+.lokpriya-contact-us-section .lokpriya-contact-form-section textarea{
+    margin-top: 15px;
+}
+
+
+.lokpriya-contact-us-section .lokpriya-contact-us-info{
+    padding-left: 45px;    
+}
+.lokpriya-contact-us-section .lokpriya-contact-us-info ul{
+    text-align: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.lokpriya-contact-us-section .lokpriya-contact-us-info li{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 5px;
+}
+
+.lokpriya-contact-us-section .lokpriya-address-detail .lokpriya-icon{
+        color: teal;
+        font-size: 20px;
+}
+.lokpriya-contact-us-section .lokpriya-address-detail .lokpriya-icon,
+.lokpriya-contact-us-section .lokpriya-address-detail .lokpriya-caption{
+    display: inline-block;
+    padding: 0 5px;
+
+}
+
+/*BRANCHES SECTION*/
+.lokpriya-contact-us-branches{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.lokpriya-contact-us-branches .lokpriya-section-title{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 0;
+
+}
+
+.lokpriya-contact-us-branches .lokpriya-post{
+    margin-top: 30px;
+}
+
+/* MAP */
+.lokpriya-contact-us-section-map iframe{
+    width : 100%;
+}
+
+
+
+
+    

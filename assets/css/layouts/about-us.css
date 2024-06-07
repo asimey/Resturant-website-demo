@@ -1,0 +1,26 @@
+.lokpriya-about-section{
+    padding: 60px 0;
+    border-top: 1px solid #e1e1e1;
+}
+.lokpriya-about-section .lokpriya-image-section{
+    height: 350px;
+
+}
+.lokpriya-about-section .lokpriya-desc{
+    padding-top: 35px;
+}
+
+.lokpriya-about-section .lokpriya-section-title,
+.lokpriya-about-section p{
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.lokpriya-about-section .lokpriya-section-title{
+    text-align: center;
+    font-size: 30px;
+}
+
+.lokpriya-about-section .lokpriya-btn-section{
+    padding-top: 30px;
+    text-align: center;
+}

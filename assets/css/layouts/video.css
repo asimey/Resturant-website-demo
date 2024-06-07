@@ -1,0 +1,29 @@
+
+.lokpriya-video-section{
+    position: relative;
+    height: 600px;
+    overflow: hidden;
+  
+ }
+ .lokpriya-video-section .lokpriya-video-wrapper{
+    padding-bottom: 50%;
+    position: absolute;
+    width: 100%;
+    height: 0;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+
+  }
+  .lokpriya-video-section video{
+    max-width: 100%;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    object-fit: cover
+}

@@ -1,0 +1,13 @@
+.lokpriya-site-header{
+    background-color: black;
+    padding: 15px 0;
+}
+
+.lokpriya-site-header .lokpriya-logo-section{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.lokpriya-site-header .navigation{
+    padding: 5px 0;
+}

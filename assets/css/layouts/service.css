@@ -1,0 +1,30 @@
+.lokpriya-service-section{
+    height: 60px 0;
+    padding-top: 60px;
+    padding-bottom: 90px;
+}
+
+.lokpriya-service-section .lokpriya-image-section{
+    margin-top: 30px;
+}
+
+.lokpriya-service-section .lokpriya-desc{
+    padding-top: 70px;
+    text-align: center;
+}
+
+.lokpriya-service-section .lokpriya-section-title,
+.lokpriya-service-section p{
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+
+.lokpriya-service-section .lokpriya-section-title{
+    text-align: center;
+    font-size: 30px;
+}
+
+.lokpriya-service-section .lokpriya-desc .lokpriya-button-section{
+    padding-top: 30px;
+}
+

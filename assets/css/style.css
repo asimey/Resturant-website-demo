@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box; 
+}
+body{
+    margin: 0; 
+    font-family: "Poppins";
+    font-size: 16px;
+    font-weight: 400;
+    color:black;
+
+}
+a,
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+.bg-image{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #eee;
+}
+.lokpriya-image-overlay{
+    position: relative;
+    transform: perspective(1px) translateZ(0);
+    z-index: 1;
+}
+.lokpriya-image-overlay:before{
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.30);
+    z-index: -1;           
+}
+.lokpriya-btn-style-1,
+input[type=button]{
+    display: inline-block;
+    background-color: teal;
+    color: #fff;
+    border: 2px solid teal;
+    padding: 0 30px;
+    height: 40px;
+    line-height: 36px;
+    font-size: 18px;
+    transition: all 0.3s linear;
+}
+.lokpriya-btn-style-1:visited,
+input[type=button]:visited{
+    color: #fff;
+}
+.lokpriya-btn-style-1:hover,
+input[type=button]:hover{
+    background-color: transparent;
+    color: teal;
+}
+
+.lokpriya-title-style-1 {
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+    line-height: 1;
+    text-align: center;
+  }
+
+  /*FOOTER QUICK LINKS SECTION*/
+.lokpriya-footer-section .lokpriya-quick-links{
+    list-style: none;
+    padding: 0px;
+    margin-top: 0px;  
+}
+
+.lokpriya-quick-links a,
+.lokpriya-quick-links a:visited{
+    color: white;
+}
+
+.lokpriya-footer-section .lokpriya-footer-section-map{
+    
+}
